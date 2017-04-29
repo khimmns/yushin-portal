@@ -47,6 +47,9 @@ $ sls offline
 ```
 $ sls dynamodb start
 ```
-
+3. Web Contents Local Testing
+```
+$ python -m SimpleHTTPServer (port)
+```
 
 
